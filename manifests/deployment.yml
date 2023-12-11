@@ -16,4 +16,4 @@ spec:
         - name: kubeimage1 
           image: cont00regs003.azurecr.io/kubeimage1
           ports:
-          - containerPort: 80
+          - containerPort: 6969
